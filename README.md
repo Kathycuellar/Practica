@@ -2,7 +2,7 @@
 
 Este es un proyecto de bus de datos
 
-#Colaboradores
+# Colaboradores
 
 Jose David
 Katherine Cuellar
