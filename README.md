@@ -4,6 +4,6 @@ Este es un proyecto de bus de datos
 
 #Colaboradores
 
-Jose David
+Jose David Rodriguez
 Katherine Cuellar
 Saul Gallardo
