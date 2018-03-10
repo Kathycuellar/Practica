@@ -1,7 +1,7 @@
 void setup() {
   Serial.begin(9600);
   Serial.println("Hola soy un arduino");
-
+  pinMode(13,OUTPUT);
 }
 
 void loop() {
